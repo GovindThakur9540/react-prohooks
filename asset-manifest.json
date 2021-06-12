@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-prohooks/static/css/main.fcaa2e87.chunk.css",
-    "main.js": "/react-prohooks/static/js/main.d66c0f33.chunk.js",
-    "main.js.map": "/react-prohooks/static/js/main.d66c0f33.chunk.js.map",
+    "main.js": "/react-prohooks/static/js/main.8a148d9d.chunk.js",
+    "main.js.map": "/react-prohooks/static/js/main.8a148d9d.chunk.js.map",
     "runtime-main.js": "/react-prohooks/static/js/runtime-main.c2d0d104.js",
     "runtime-main.js.map": "/react-prohooks/static/js/runtime-main.c2d0d104.js.map",
     "static/js/2.6419dc03.chunk.js": "/react-prohooks/static/js/2.6419dc03.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c2d0d104.js",
     "static/js/2.6419dc03.chunk.js",
     "static/css/main.fcaa2e87.chunk.css",
-    "static/js/main.d66c0f33.chunk.js"
+    "static/js/main.8a148d9d.chunk.js"
   ]
 }
